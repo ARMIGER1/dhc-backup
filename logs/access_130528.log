@@ -1,0 +1,4 @@
+188.92.76.167 - - [26/May/2013:23:49:27 -0700] "HEAD / HTTP/1.1" 200 0 "http://tkdot.com/" "Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.14" "donhughescountry.com"
+173.199.114.243 - - [27/May/2013:00:19:04 -0700] "GET /web.htm HTTP/1.1" 200 2065 "-" "Mozilla/5.0 (compatible; AhrefsBot/4.0; +http://ahrefs.com/robot/)" "www.donhughescountry.com"
+180.76.5.20 - - [27/May/2013:06:21:41 -0700] "GET /robots.txt HTTP/1.1" 200 699 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" "www.donhughescountry.com"
+199.30.16.2 - - [27/May/2013:16:15:52 -0700] "GET /robots.txt HTTP/1.1" 200 559 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" "www.donhughescountry.com"
